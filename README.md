@@ -15,7 +15,7 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
 - 🔭 &nbsp; I’m currently look for job opportunities **Gemini AI**
 - 🌱 &nbsp; Find more about me here [samjs.me](https://samjs.me) ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuvelRaja?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help; [Contact me](mailto:josephsamuvel001@gmail.com)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samuvel-raja-10321a220/)
 - 📝 &nbsp; Checkout my [resume](https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/assets/samjsresume.pdf)
 - 📚 &nbsp; When I am free, I do surf fishing or I will be watching some tech content on youtube
@@ -45,8 +45,3 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
 </a>
 
 <br>
-
-<!-- ### 🛠️ My Projects
-<a href="https://665e15bccaa20b3ee7accf45--dreamy-hummingbird-522194.netlify.app/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a> -->
