@@ -15,7 +15,7 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
 - 🔭 &nbsp; I’m currently look for job opportunities **Gemini AI**
 - 🌱 &nbsp; Find more about me here [samjs.me](https://samjs.me) ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuvelRaja?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help; [Contact me](mailto:josephsamuvel001@gmail.com)
+- 💬 &nbsp; Ask me anything tech related, I'm happy to help [Contact me](mailto:josephsamuvel001@gmail.com)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samuvel-raja-10321a220/)
 - 📝 &nbsp; Checkout my [resume](https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/assets/samjsresume.pdf)
 - 📚 &nbsp; When I am free, I do surf fishing or I will be watching some tech content on youtube
